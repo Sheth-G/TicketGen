@@ -204,7 +204,7 @@
                 if (i==10||i==20){
 
                 }else{
-                     table.rows[row].cells["cell"+i].innerHTML="";
+                     table.rows[row].cells["cell"+i].innerHTML="0";
                 }
                 
             }
